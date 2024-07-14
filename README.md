@@ -1,8 +1,11 @@
-# basic_provider
+# Basic Flutter App using Provider between Screens
 
 A new Flutter project.
 
-## Getting Started
+# Output
+![1](https://github.com/user-attachments/assets/e1707691-1dc2-4312-afde-c7dec9f2249e) + ![2](https://github.com/user-attachments/assets/52c6f869-5313-4543-8a6d-77c9a6779962)
+
+
 
 This project is a starting point for a Flutter application.
 
